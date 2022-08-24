@@ -1,2 +1,7 @@
 # VG-MG-Cloud_Help
-Poradnik, DOCSy
+Cześć,
+Aktualnie znajdujesz się na stronie głównej naszego repo.
+
+Znajdziesz tutaj wiele przydatnych informacji
+
+# Obsługa panelu
