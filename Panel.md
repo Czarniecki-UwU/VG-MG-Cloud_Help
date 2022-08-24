@@ -1,1 +1,1 @@
-
+# Obsługa panelu
