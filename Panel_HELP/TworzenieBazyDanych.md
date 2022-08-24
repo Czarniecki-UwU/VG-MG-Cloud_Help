@@ -10,7 +10,7 @@ po wpisaniu właściwości uzyskasz konto które użyjesz na naszym PMA.
 2. Znajdujesz przycisk "NEW DATABASE"
 > Może się zdażyć że twoja usługa nie posiada bazy danych!
 3. Znajdują się tam 2 pola DATABASE NAME oraz CONNECTIONS FROM
-> DATABASE NAME - Będzie to nazwa twojej bazy!
+> DATABASE NAME - Będzie to nazwa twojej bazy!<br>
 > CONNECTIONS FROM - Funkcja dla osób zawansowanych, ustala z kąd połączenia będą zezwakaba
 4. Uzupełniasz dane
 5. Baza stworzona!
