@@ -1,14 +1,13 @@
-# 📤 Pobieranie ID Usługi na VG-MG Cloud
-Co do pobierania ID usługi sprawa jest prosta!
-W zakładce settings posiadasz ID o którym mowa.
+# ✨ Usuwanie bazy danych
+Usuwanie bazy danych jest proste.
+Wystarczy kliknąć kilka przycisków zatwierdzić i gotowe!
 
 # 📖 Krok po kroku
-1. Klikasz w zakładkę settings
-2. Znajdujesz Lewe Dolne okienko.
-3. Znajduje się tam "Server ID"
-4. Kopiujesz wartość znajdującą się po prawo od "Server ID"
-5. Użyj w miejscu gdzie potrzebujesz
+1. Klikasz w zakładkę "Databases"
+2. Znajdujesz Przycisk z ikoną śmietnika poczym klikasz w niego.
+3. Potwierdzasz usunięcie bazy wpisując jej nazwę w okienku
+4. Potwierdzasz usunięcie przyciskiem "DELETE DATABASE"
+5. Gotowe
 
 # ✔ Podsumowanie
-> Już nauczyłeś się pobierać ID usługi na VG-MG Cloud.
-> Potrzebne jest to gdy udajesz się na ticket w celu uzyskania pomocy
+> Już nauczyłeś się jak usuwać nie potrzebne bazy
