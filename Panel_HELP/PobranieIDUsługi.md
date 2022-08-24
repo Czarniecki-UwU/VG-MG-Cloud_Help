@@ -8,3 +8,7 @@ W zakładce settings posiadasz ID o którym mowa.
 3. Znajduje się tam "Server ID"
 4. Kopiujesz wartość znajdującą się po prawo od "Server ID"
 5. Użyj w miejscu gdzie potrzebujesz
+
+# ✔ Podsumowanie
+> Już nauczyłeś się pobierać ID usługi na VG-MG Cloud.
+> Potrzebne jest to gdy udajesz się na ticket w celu uzyskania pomocy
